@@ -1,1 +1,2 @@
 # D20_2.0
+The new and improved version of the D20 I made ealier, this time with 16 lines of code instead of 3. The difference is that this time, the dice is put in a loop, and you get to choose wether to continue or not. Like the other D20, if you're using this in a software that will go public, at least give me some credit. I don't care how much, it just has to be something. Thank you for using the code I made
